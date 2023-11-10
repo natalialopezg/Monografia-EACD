@@ -89,6 +89,10 @@ La estructura de almacenamiento de las imágenes en el repositorio es la siguien
 #### Salidas
 Como resultado del preprocesamiento se obtienen los sets de entrenamiento y prueba de tipo **numpy.ndarray** (*X_train, X_test, y_train, y_test*) a partir de las imágenes preprocesadas. Para visualizar mejor la data de salida, se presenta al final del notebook un dataframe con las etiquetas y las características de cada imagen preprocesada.
 
+<img src="https://drive.google.com/uc?id=1YCS6zcrL98S8Z87QA_Dy872HOOsyTu64" width="600" >
+
+<br>
+
 En el preprocesamiento se aplican las siguientes transformaciones:
 
 *    Redimensionamiento.
@@ -96,6 +100,8 @@ En el preprocesamiento se aplican las siguientes transformaciones:
 *    Normalizado
 
 <img src="https://drive.google.com/uc?id=1hRBrPKCBEmG1ytTLd1Uc6lznii2XeIKi" width="600" >
+
+<br>
 
 ## Referencias 
 
